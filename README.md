@@ -9,6 +9,28 @@ The app was built primarily for personal need and interest and combines:
 - Cryptography concepts
 - iOS deployment with EAS / TestFlight
 
+## Screenshots
+
+### Home Page
+
+![Home Page](docs/screenshots/home.PNG)
+
+### Encode Page
+
+![Encode Page](docs/screenshots/encoder.PNG)
+
+### Decode Page
+
+![Decode Page](docs/screenshots/decoder.PNG)
+
+### Notes Page
+
+![Notes Page](docs/screenshots/notes_add_line.PNG)
+
+![Notes Page](docs/screenshots/notes_with_content.PNG)
+
+---
+
 ## Features
 
 - Encrypt text using a secret key
