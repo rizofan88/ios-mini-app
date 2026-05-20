@@ -12,21 +12,23 @@ The app was built primarily for personal need and interest and combines:
 ## Screenshots
 
 ### Home Page
-
+---
 ![Home Page](docs/screenshots/home.jpg)
 
 ### Encode Page
-
+---
 ![Encode Page](docs/screenshots/encoder.jpg)
 
 ### Decode Page
-
+---
 ![Decode Page](docs/screenshots/decoder.jpg)
 
-### Notes Page
-
+### Notes Page Empty
+---
 ![Notes Page](docs/screenshots/notes_add_line.jpg)
 
+### Notes Page With Content
+---
 ![Notes Page](docs/screenshots/notes_with_content.jpg)
 
 ---
